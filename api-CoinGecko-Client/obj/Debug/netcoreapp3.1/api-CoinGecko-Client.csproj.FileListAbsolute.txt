@@ -1,0 +1,15 @@
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\bin\Debug\netcoreapp3.1\api-CoinGecko-Client.exe
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\bin\Debug\netcoreapp3.1\api-CoinGecko-Client.deps.json
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\bin\Debug\netcoreapp3.1\api-CoinGecko-Client.runtimeconfig.json
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\bin\Debug\netcoreapp3.1\api-CoinGecko-Client.runtimeconfig.dev.json
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\bin\Debug\netcoreapp3.1\api-CoinGecko-Client.dll
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\bin\Debug\netcoreapp3.1\api-CoinGecko-Client.pdb
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\obj\Debug\netcoreapp3.1\api-CoinGecko-Client.csprojAssemblyReference.cache
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\obj\Debug\netcoreapp3.1\api-CoinGecko-Client.AssemblyInfoInputs.cache
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\obj\Debug\netcoreapp3.1\api-CoinGecko-Client.AssemblyInfo.cs
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\obj\Debug\netcoreapp3.1\api-CoinGecko-Client.dll
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\obj\Debug\netcoreapp3.1\api-CoinGecko-Client.pdb
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\obj\Debug\netcoreapp3.1\api-CoinGecko-Client.genruntimeconfig.cache
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\obj\Debug\netcoreapp3.1\api-CoinGecko-Client.csproj.CoreCompileInputs.cache
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\bin\Debug\netcoreapp3.1\Echovoice.JSON.dll
+C:\Users\tomycat\source\repos\api-CoinGecko-Client\api-CoinGecko-Client\obj\Debug\netcoreapp3.1\api-CoinGecko-Client.csproj.CopyComplete

@@ -1,0 +1,19 @@
+{
+  "coins": [
+    {
+    cardano
+      "current_price": "1.0",
+      "total_volume": "103124080",
+    },
+    {
+    bitcoin
+      "current_price": "2760",
+      "total_volume": "1738782994",
+      "market_cap_change_24h": "626800286",
+    },
+    {
+    ethereum
+      "current_price": "1752.7",
+      "total_volume": "1904649809",
+      "market_cap_change_24h": "712593139",
+    },

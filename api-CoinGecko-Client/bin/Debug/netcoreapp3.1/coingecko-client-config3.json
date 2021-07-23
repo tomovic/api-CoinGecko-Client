@@ -1,0 +1,23 @@
+{
+  "coins": [
+    {
+      "symbol": "ada",
+      "current_price": "true",
+      "market_cap_change_24h": "false",
+      "total_volume": "true"
+    },
+    {
+      "symbol": "btc",
+      "current_price": "true",
+      "market_cap_change_24h": "true",
+      "total_volume": "true"
+    },
+    {
+      "symbol": "eth",
+      "current_price": "true",
+      "market_cap_change_24h": "true",
+      "total_volume": "false"
+    }
+  ],
+  "api-url": "https://api.coingecko.com/api/v3"
+}
